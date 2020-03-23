@@ -3,3 +3,4 @@ credential.py
 .vscode/*
 *.log
 .venv/
+__pycache__/
